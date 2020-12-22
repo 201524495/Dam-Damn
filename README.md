@@ -15,14 +15,17 @@
 힘든 과제였지만 모두 힘을 합치고 밥도 같이 먹고, 짜증도 같이 내고, 웃기도 같이 웃으며 좋은 경험을 했다. 
 
 
+결과 사진 - STM32 Board & Dam
+-------------
 ![임베디댐_사진01](https://user-images.githubusercontent.com/49744580/102891798-2b7dfd80-44a2-11eb-8284-9549e3ae11d3.jpg)
 
 
-
-
+결과 사진 - TFT-LCD & Smart Phone & Sensor & BlueTooth Connection
+-------------
 ![임베디댐_사진02](https://user-images.githubusercontent.com/49744580/102892140-cbd42200-44a2-11eb-8ec0-3bb40f4aa7f4.jpg)
 
 
 
-
+결과 사진 - Dam
+-------------
 ![임베디댐_사진03](https://user-images.githubusercontent.com/49744580/102892143-cd9de580-44a2-11eb-9cc0-3cf0a13a8e5e.jpg)
