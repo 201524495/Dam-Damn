@@ -1,5 +1,7 @@
 # Dam-Damn
 
+_PNU CSE 2020 Fall Semester Embedded System Design & Experiment_
+
 임베디드 시스템 설계 및 실험의 꽃이자 마지막 관문인 Term Project!
 
 랜덤으로 뽑힌 조원들과 힘을 합쳐 코드를 짜고, 하드웨어를 만들고, 모듈과 센서를 작동시키는 과제다.
